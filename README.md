@@ -1,9 +1,10 @@
 # ToDo feito com React
 
-<img src="https://github.com/user-attachments/assets/0f07e21a-0d93-42ac-9120-f80461dff550" alt="Logo do Aplicativo" width="200" />
+<img src="https://github.com/user-attachments/assets/0f07e21a-0d93-42ac-9120-f80461dff550" alt="Logo do Aplicativo" width="600" />
 
 ## 🔗 Link do Deploy:
-- **https://react-to-do-mu-one.vercel.app/**
+
+- **<link src="https://react-to-do-mu-one.vercel.app/" alt="Link para o App"/>**
 
 ## :clipboard: Como Executar o Projeto
 
