@@ -1,8 +1,29 @@
-# React + Vite
+# ToDo feito com React
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+<img src="https://github.com/user-attachments/assets/0f07e21a-0d93-42ac-9120-f80461dff550" alt="Logo do Aplicativo" width="200" />
 
-Currently, two official plugins are available:
+## 🔗 Link do Deploy:
+- **https://react-to-do-mu-one.vercel.app/**
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## :clipboard: Como Executar o Projeto
+
+1. Clone o repositório.
+2. Instale as dependências:
+   ``npm install``
+3. Inicie o projeto:
+   ``npm run dev``
+    
+## :rocket: Tecnologias Utilizadas
+
+- **Framework: React**
+
+- **Estilização: Tailwind**
+
+## :speech_balloon: Contato
+### Se tiver dúvidas ou sugestões, entre em contato:
+
+- **Email: andremice1@hotmail.com**
+
+- **GitHub: andreluisx**
+
+- **LinkedIn: andré-luís-777276298**
