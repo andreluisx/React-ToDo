@@ -4,7 +4,7 @@
 
 ## 🔗 Link do Deploy:
 
-- **<link src="https://react-to-do-mu-one.vercel.app/" alt="Link para o App"/>**
+- [Acesse o App](https://react-to-do-mu-one.vercel.app/)
 
 ## :clipboard: Como Executar o Projeto
 
